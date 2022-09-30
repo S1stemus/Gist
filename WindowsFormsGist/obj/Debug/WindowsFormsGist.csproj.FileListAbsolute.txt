@@ -1,0 +1,11 @@
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\bin\Debug\WindowsFormsGist.exe.config
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\bin\Debug\WindowsFormsGist.exe
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\bin\Debug\WindowsFormsGist.pdb
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.csproj.AssemblyReference.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.Properties.Resources.resources
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.csproj.GenerateResource.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.csproj.CoreCompileInputs.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.exe
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.pdb
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsGist\obj\Debug\WindowsFormsGist.RealForm.resources

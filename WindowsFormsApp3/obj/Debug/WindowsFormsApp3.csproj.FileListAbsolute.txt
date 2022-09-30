@@ -1,0 +1,22 @@
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\avazb\Desktop\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\2 курс\биллиг\muchenia2-MucheniaMyVers\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
